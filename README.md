@@ -38,7 +38,7 @@ azure-enterprise-scale-landing-zone/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/john/azure-enterprise-scale-landing-zone.git
+   git clone https://github.com/johnsou/azure-enterprise-scale-landing-zone.git
    cd azure-enterprise-scale-landing-zone
    ```
 
