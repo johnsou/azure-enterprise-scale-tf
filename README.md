@@ -7,7 +7,7 @@ This repository provides a modular Terraform scaffold for deploying an enterpris
 ## 📁 Repository Structure
 
 ```
-azure-enterprise-scale-landing-zone/
+azure-enterprise-scale-tf/
 ├── modules/
 │   ├── management_groups/
 │   ├── network/
@@ -38,7 +38,7 @@ azure-enterprise-scale-landing-zone/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/johnsou/azure-enterprise-scale-landing-zone.git
+   git clone https://github.com/johnsou/azure-enterprise-scale-tf.git
    cd azure-enterprise-scale-landing-zone
    ```
 
